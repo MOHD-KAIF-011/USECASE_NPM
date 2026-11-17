@@ -1,0 +1,26 @@
+{
+  "name": "usecase_npm",
+  "version": "1.0.0",
+  "description": "Real-world showcase application for str-craft-kit npm package",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MOHD-KAIF-011/USECASE_NPM.git"
+  },
+  "keywords": [
+    "str-craft-kit",
+    "usecase",
+    "showcase",
+    "demo"
+  ],
+  "author": "Mohd Kaif",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "str-craft-kit": "^1.0.0"
+  }
+}
